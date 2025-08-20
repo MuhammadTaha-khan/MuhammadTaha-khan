@@ -1,13 +1,11 @@
 [![MERN Stack Developer Banner] 
 <a href="https://taha-dev-ai.io">
-    
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=740&t=st=1692092070~exp=1692092670~hmac=86e150d21e32aefb964fb1b0419bb51199ec6b9a0a5ed2b3b2e443b8506828ef" alt="Web Developers" >
 </a>
 
 <h1 align="center">Hi 👋, I'm Muhammad Taha</h1>
 <h3 align="center">A passionate MERN Stack Developer from Pakistan</h3>
 
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/programmer-working-flat-style_52683-15041.jpg?w=740" alt="MERN Stack Developer" >
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=740&t=st=1692092070~exp=1692092670~hmac=86e150d21e32aefb964fb1b0419bb51199ec6b9a0a5ed2b3b2e443b8506828ef" alt="Web Developers" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taha-dev-ai&label=Profile%20views&color=0e75b6&style=flat" alt="taha-dev-ai" /> </p>
 
