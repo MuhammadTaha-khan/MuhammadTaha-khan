@@ -1,6 +1,6 @@
 [![Taha Web developer] 
 <a href="https://taha-dev-ai.io">
-    <img align="center" alt="coding" with="400" height="500" src="https://img.freepik.com/free-vector/website-development-banner_33099-1687.jpg?w=740&t=1692096225~exp=1692096825~hmac=8b425171030a387637bda0db88e45e3a032d44128da2745ed9c9350b91ddf901" alt="Banner Image">
+    <img align="center" alt="coding" with="400" height="500" src="https://unsplash.com/photos/black-flat-screen-computer-monitor-cYyqhdbJ9TI?w=740&t=1692096225~exp=1692096825~hmac=8b425171030a387637bda0db88e45e3a032d44128da2745ed9c9350b91ddf901" alt="Banner Image">
  
 </a>
 
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **courses**
 
-- 💬 Ask me about **Web development front end and back end**
+- 💬 Ask me about **MERN STACK DEVELOPER**
 
 - 📫 How to reach me **tahak654321@gmail.com**
 
